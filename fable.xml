@@ -1,9 +1,9 @@
 <fable>
 	<page background="Wall1.png">
        <agent x="0" y="0" width="50" height="50"
-        text="Você acorda em uma sala estranha" color="blue" x="10" y="0" width="300" height="450"
+        text="Você acorda em uma sala estranha" color="" x="" y="0" width="300" height="450"
+        <agent img="Transicao.png" x="0" y="0" width="50" height="500"
            
-        <agent img="Transicao.png" x="0" y="0" 
   </page>
 
     <page background="Wall2.png">
