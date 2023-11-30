@@ -1,7 +1,7 @@
 <fable>
 	<page background="Wall1.png">
        <agent x="0" y="0" width="250" height="100"
-        text="Você acorda em uma sala estranha" color="blue" x="0" y="0" width="00" height="400" on-touch="_NEXT_PAGE" 
+        text="Você acorda em uma sala estranha" color="blue" x="0" y="0" width="300" height="450" on-touch="_NEXT_PAGE" 
            />
   </page>
 
