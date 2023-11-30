@@ -1,6 +1,8 @@
 <fable>
 	<page background="Wall1.png">
-       <agent x="40" y="350" width="500" height="100"></agent>
+       <agent x="40" y="350" width="500" height="100"
+                text="ta" font-size="22" color="blue" x="40" y="350" width="500" height="100" 
+           />
     
   </page>
 </fable>
