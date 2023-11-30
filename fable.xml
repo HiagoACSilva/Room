@@ -1,11 +1,11 @@
 <fable>
 	<page background="Wall1.png">
-       <agent
-        text="Você acorda em uma sala estranha" color="" x="500" y="40" width="300" height="450"
+       <agent x="0" y="0" width="50" height="50"
+        text="Você acorda em uma sala estranha" color="" x="0" y="0" width="300" height="450"
            />
         <agent
-        img="Transicao.png" x="0" y="0" width="50" height="500" on-touch="_NEXT_PAGE"
-           
+            img="Transicao.png" x="0" y="0" width="50" height="500" on-touch="_NEXT_PAGE"
+           />
   </page>
 
     <page background="Wall2.png">
