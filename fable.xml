@@ -13,9 +13,7 @@
   </page>
 
     <page background="Wall2.png">
-        <agent x="30" y="350" width="250" height="100"
-        text="Você acorda em uma sala estranha" color="blue" x="40" y="350" width="500" height="100" on-touch="_NEXT_PAGE" 
-           />
+        
         <agent
             img="Transicao.png" x="0" y="0" width="20" height="500" on-touch="_GOTO_PAGE:3"
            />
@@ -28,6 +26,13 @@
     <page background="Wall3.png">
         <agent x="30" y="350" width="250" height="100"
         text="Você acorda em uma sala estranha" color="blue" x="40" y="350" width="500" height="100" on-touch="_NEXT_PAGE"  
+           />
+        <agent
+            img="Transicao.png" x="0" y="0" width="20" height="500" on-touch="_GOTO_PAGE:1"
+           />
+        
+        <agent 
+            img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:2"
            />
     </page> 
 </fable>
