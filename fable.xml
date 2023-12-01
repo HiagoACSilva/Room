@@ -1,13 +1,4 @@
 <fable>
-    
-    <page background="Wall3.png">
-        <agent
-            img="Transicao.png" x="0" y="0" width="20" height="500" on-touch="_GOTO_PAGE:1"
-           />
-        <agent 
-            img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:2"
-           />
-    </page> 
 
 	<page background="Wall1.png">
         <agent
@@ -85,7 +76,28 @@
         <agent text="." x="300" y="300" color="azure"/>
             
     </page>
-    
+    <page background="Wall3.png">
+        <agent
+            img="Transicao.png" x="0" y="0" width="20" height="500" on-touch="_GOTO_PAGE:1"
+           />
+        <agent 
+            img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:2"
+           />
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+    </page> 
     <page background="1.png">
         <agent text="Hm...Okay mas qual armário?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
     </page>
