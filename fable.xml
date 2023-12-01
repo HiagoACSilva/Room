@@ -12,7 +12,8 @@
             <gavetaesquerdabaixo text="a"/>
             
         </agent>
-        <agent im  x="20" y="40" on-trigger="gavetaesquerdabaixo"/>
+        <agent img="Transicao.png" x="20" y="40" width="0" height="0" on-trigger="gavetaesquerdabaixo"/>
+        
             
   </page>
 
