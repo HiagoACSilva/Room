@@ -13,14 +13,12 @@
             text="O que fazer?..." x="20" y="80" width="0" color="azure"
             height="0" on-trigger="GEB">
             
-            <go text="Não há nada na gaveta..."/>
-        </agent>
-        <agent 
-            text="O que fazer?..." x="20" y="80" width="0" color="azure"
-            height="0" on-trigger="GEB">
+            <go text="Não há nada na gaveta..."
+                <agent>
             
-            <go text="Não há nada na gaveta..."/>
+                    />
         </agent>
+        
         
             
             
