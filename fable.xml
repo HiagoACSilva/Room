@@ -10,10 +10,10 @@
             img="Transicao.png" x="30" y="130" width="50" height="20" on-touch="go">
         </agent>
         <agent 
-            text="O que fazer?" x="20" y="40" width="0" color="azure"
+            text="O que fazer?" x="20" y="9" width="0" color="azure"
             height="0" on-trigger="go">
             
-            <go y="400" text="Não há nada na gaveta"/>
+            <go y="400" text="Não há nada na gaveta" color="black"/>
         </agent>
         
             
