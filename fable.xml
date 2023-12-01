@@ -7,8 +7,9 @@
             img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:3"
            />
         <agent
-            text="aaaa" x="30" y="130" font-size="20" width="20" height="0" on-touch=""
+            text="aaaa" x="30" y="130" font-size="20" width="20" height="0" on-touch="int"
         />
+        <int>
   </page>
 
     <page background="Wall2.png">
