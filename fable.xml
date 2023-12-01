@@ -24,6 +24,7 @@
             <GEC x="20" text="Há algo aqui...Está escrito: olhe na segunda prateleira na garrafa, lá há uma carta" on-touch="C1"/>
             <C1 x="1000"/>
         </agent>
+        <agent text="." x="0" y="0"/>
         
         
             
