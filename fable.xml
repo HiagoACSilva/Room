@@ -23,7 +23,7 @@
             <GEC x="20" text="Há algo aqui..." on-touch="Gec"/>
             <Gec x="2000"/>
         </agent>
-        <agent text="limpar"/>
+        <agent text="limpar tela" x="0" y="0" width="0" height="0">
         
         
             
