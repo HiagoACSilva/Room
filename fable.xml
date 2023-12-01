@@ -11,10 +11,10 @@
             <go text="b" />
         </agent>
         <agent 
-            text= x="20" y="40" width="0" 
+            img="Transicao.png" x="20" y="40" width="0" 
             height="0" on-trigger="go">
             
-            <go text="go"/>
+            <go y="400" text="Não há nada na gaveta"/>
         </agent>
         
             
