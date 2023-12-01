@@ -23,7 +23,7 @@
 
             <GEC x="20" text="Há algo aqui..." on-touch="C1"/>
         </agent>
-        <agent img="Transicao.png" x=0/>
+        <agent img="Transicao.png" x="0" y="0" width="0" height="0" on-trigger=C1/>
         
         
             
