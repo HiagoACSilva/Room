@@ -49,6 +49,6 @@
            />
     </page> 
     <page background="1.png">
-        <agent text="Hm" x="0" y="0"/>
+        <agent text="Hm..." color="black" x="20" y="80"/>
     </page>
 </fable>
