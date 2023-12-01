@@ -21,7 +21,7 @@
             height="0" on-trigger="GEC">
 
             <GEC x="20" text="Há algo aqui..." on-touch="Gec"/>
-            <Gec x="-"
+            <Gec x="2000"/>
         </agent>
         
         
