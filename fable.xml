@@ -7,7 +7,7 @@
             img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:3"
            />
         <agent
-            img="Transicao.png" x="30" y="130" width="50" height="20" on-touch="GEB">
+            img="Transicao.png" x="30" y="130" width="40" height="30" on-touch="GEB">
         </agent>
         <agent 
             text="O que fazer?..." x="20" y="80" width="0" color="azure"
@@ -16,7 +16,7 @@
             <GEB text="Não há nada na gaveta..."
                     />
         </agent>
-        <agent />
+        <agent img="Transicao.png" x="30" y="161" width="40" h/>
         
         
             
