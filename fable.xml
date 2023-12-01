@@ -22,7 +22,6 @@
             height="0" on-trigger="GEC">
 
             <GEC x="20" text="Há algo aqui...Uma especie de Carta?" on-touch="LT"/>
-            <LT x="2000"/>
         </agent>
         
         
