@@ -14,8 +14,7 @@
             height="0" on-trigger="GEB">
             
             <go text="Não há nada na gaveta..."
-                <agent>
-            
+                <agent text="ams"/>
                     />
         </agent>
         
