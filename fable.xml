@@ -7,13 +7,13 @@
             img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:3"
            />
         <agent
-            img="Transicao.png" x="30" y="130" width="50" height="20" on-touch="go">
+            img="Transicao.png" x="30" y="130" width="50" height="20" on-touch="GavEsBa">
         </agent>
         <agent 
-            text="O que fazer?" x="20" y="9" width="0" color="azure"
+            text="O que fazer?..." x="20" y="80" width="0" color="azure"
             height="0" on-trigger="go">
             
-            <go y="400" text="Não há nada na gaveta" color="black"/>
+            <go text="Não há nada na gaveta..."/>
         </agent>
         
             
