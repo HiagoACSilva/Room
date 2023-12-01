@@ -9,7 +9,8 @@
         <agent
             text="a" x="30" y="130" width="50" height="20" on-touch="go"
         />
-        <agent img="Transicao.png" x="20" y="40" width="0" height="0" on-trigger="go">
+        <agent img="Transicao.png" x="20" y="40" width="0" height="0" on-trigger="go"
+            >
             <gavetaesquerdabaixo text="go"/>
         </agent>
         
