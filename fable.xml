@@ -9,7 +9,7 @@
         <agent
             text="aa" x="30" y="130" font-size="20" width="20" on-touch="gavetaesquerdabaixo"
         >
-            <gavetaesquerdabaixo text="aberta" x="100" y="100"/>
+            <gavetaesquerdabaixo />
         </agent>
             
   </page>
