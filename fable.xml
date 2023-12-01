@@ -8,7 +8,7 @@
            />
         <agent
             text="aaaaa" x="30" y="130" font-size="20" width="20" on-touch="tran"
-            <tran 
+            <tran text="a"/>
         />
             
   </page>
