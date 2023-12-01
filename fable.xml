@@ -45,6 +45,8 @@
         <agent text="." x="100" y="300" color="azure"/>
         <agent text="." x="140" y="360" color="azure"/>
         <agent text="." x="245" y="290" color="black"/>
+        <agent text="." x="330" y="98" color="azure"/>
+        <agent text="." x="100" y="420" color="azure"/>
         <agent text="." x="300" y="300" color="azure"/>
         
         
