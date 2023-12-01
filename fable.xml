@@ -26,7 +26,7 @@
         </agent>
         <agent img="Transicao.png" x="25" y="370" width="10" height="25" on-touch="_GOTO_PAGE:4"/>
         
-        
+        <agent />
             
             
   </page>
