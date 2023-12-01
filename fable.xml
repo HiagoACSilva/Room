@@ -18,10 +18,10 @@
         </agent>
         <agent img="Transicao.png" x="30" y="161" width="40" height="30" on-touch="GEC"/>
         <agent
-            text=".." x="20" y="80" width="0" color="azure"
+            text="." x="2000" y="80" width="0" color="azure"
             height="0" on-trigger="GEC">
 
-            <GEC text="Há algo aqui..."/>
+            <GEC x="20" text="Há algo aqui..."/>
         </agent>
         
         
