@@ -9,7 +9,8 @@
         <agent
             text="aa" x="30" y="130" font-size="20" width="20" on-touch="story2"
         >
-            <story2 text="a" on-touch="story3">
+            <story2 >
+                <story3 text="b"/>
             </story2>
         </agent>
             
