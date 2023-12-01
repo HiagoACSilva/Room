@@ -7,10 +7,10 @@
             img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:3"
            />
         <agent
-            text="aa" x="30" y="130" font-size="20" width="20" on-touch="gavetaesquerdabaixo" on-touch="alerta"
+            text="aa" x="30" y="130" font-size="20" width="20" on-touch="gavetaesquerdabaixo"
         >
             <gavetaesquerdabaixo text="a"/>
-            <alerta x="100"/>
+            
         </agent>
             
   </page>
