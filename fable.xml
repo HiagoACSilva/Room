@@ -14,7 +14,7 @@
             height="0" on-trigger="GEB">
             
             <GEB text="Não há nada na gaveta..." on-touch="x">
-                <x>
+                <x x="-1"/>
                     </GEB>
         </agent>
         <agent img="Transicao.png" x="30" y="161" width="40" height="30" on-touch="GEC"/>
