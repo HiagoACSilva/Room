@@ -7,8 +7,8 @@
             img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:3"
            />
         <agent
-            tex
-            />
+            text="a" x="0" y="1" font-size="20"
+        />
   </page>
 
     <page background="Wall2.png">
