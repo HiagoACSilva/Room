@@ -1,26 +1,5 @@
 <fable>
-<page background="Wall3.png">
-        <agent
-            img="Transicao.png" x="0" y="0" width="20" height="500" on-touch="_GOTO_PAGE:1"
-           />
-        <agent 
-            img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:2"
-           />
-        <agent text="." x="295" y="270" color="azure"/> 
-        <agent text="." x="365" y="265" color="azure"/>
-        <agent text="t1" x="210" y="215" color="azure"/>
-        <agent text="t2" x="140" y="215" color="azure"/>
-        <agent text="t3" x="80" y="215" color="azure"/>
-        <agent text="." x="300" y="345" color="azure"/>
-        <agent text="." x="260" y="342" color="azure"/>
-        <agent text="." x="272" y="196" color="azure"/>
-        <agent text="." x="324" y="197" color="azure"/>
-        <agent text="." x="373" y="200" color="azure"/>
-        <agent text="." x="310" y="314" color="azure"/>
-        <agent text="t" x="360" y="335" color="azure"/>
-        <agent text="." x="274" y="223" color="azure"/>
-        <agent text="." x="322" y="222" color="azure"/>
-    </page> 
+
 	<page background="Wall1.png">
         <agent
             img="Transicao.png" x="0" y="0" width="20" height="500" on-touch="_GOTO_PAGE:2"
@@ -97,7 +76,28 @@
         <agent text="." x="300" y="300" color="azure"/>
             
     </page>
-    
+    <page background="Wall3.png">
+        <agent
+            img="Transicao.png" x="0" y="0" width="20" height="500" on-touch="_GOTO_PAGE:1"
+           />
+        <agent 
+            img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:2"
+           />
+        <agent text="." x="295" y="270" color="azure"/> 
+        <agent text="." x="365" y="265" color="azure"/>
+        <agent text="t1" x="210" y="215" color="azure"/>
+        <agent text="t2" x="140" y="215" color="azure"/>
+        <agent text="t3" x="80" y="215" color="azure"/>
+        <agent text="." x="300" y="345" color="azure"/>
+        <agent text="." x="260" y="342" color="azure"/>
+        <agent text="." x="272" y="196" color="azure"/>
+        <agent text="." x="324" y="197" color="azure"/>
+        <agent text="." x="373" y="200" color="azure"/>
+        <agent text="." x="310" y="314" color="azure"/>
+        <agent text="t" x="360" y="335" color="azure"/>
+        <agent text="." x="274" y="223" color="azure"/>
+        <agent text="." x="322" y="222" color="azure"/>
+    </page> 
     <page background="1.png">
         <agent text="Hm...Okay mas qual armário?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
     </page>
