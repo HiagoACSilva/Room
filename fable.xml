@@ -29,11 +29,11 @@
         <agent img="Transicao.png" x="34" y="215" width="10" height="25" on-touch="GEP"/>
         <agent
             text="." x="2000" y="80" width="0" color="azure"
-            height="0" on-trigger="GEC">
+            height="0" on-trigger="GEP">
 
-            <GEC x="20" text="Há algo aqui...Está escrito: olhe na segunda prateleira na garrafa, lá há uma carta" on-touch="C1"/>
+            <GEP x="20" text="A garrafa está vazia..." on-touch="C1"/>
             <C1 x="1000"/>
-            
+        </agent>
             
             
   </page>
