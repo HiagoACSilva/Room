@@ -16,6 +16,11 @@
         <agent text="." x="300" y="300" color="azure"/>
         <agent text="." x="300" y="300" color="azure"/>
             
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+        <agent text="." x="300" y="300" color="azure"/>
+            
     </page>
     
 	<page background="Wall1.png">
