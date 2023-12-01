@@ -12,7 +12,7 @@
             <gavetaesquerdabaixo text="a"/>
             
         </agent>
-        <agent text="gaveta aberta" x="20" y="40" on-trigger="gavetaesquerdabaixo"/>
+        <agent im  x="20" y="40" on-trigger="gavetaesquerdabaixo"/>
             
   </page>
 
