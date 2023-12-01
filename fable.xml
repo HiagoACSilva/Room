@@ -7,10 +7,8 @@
             img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:3"
            />
         <agent
-            img="Transicao.png" x="30" y="130" width="20" height="20" on-trigger="gavetaesquerdabaixo"
+            img="Transicao.png" x="30" y="130" width="50" height="20" on-touch="gavetaesquerdabaixo"
         >
-            <gavetaesquerdabaixo text="a"/>
-            
         </agent>
         <agent img="Transicao.png" x="20" y="40" width="0" height="0" on-trigger="gavetaesquerdabaixo">
             <gavetaesquerdabaixo text="aberta"/>
