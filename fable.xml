@@ -60,7 +60,7 @@
             img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:1"
            />
         
-        <agent img="1.png" width="20" height="20" x="150" y="300" on-touch="B5">
+        <agent img="1.png" width="20" height="115" x="150" y="300" on-touch="B5">
             <B1 text="8" x="215" y="300" color="azure" on-touch="B2"/>
             <B2 text="3" x="340" y="300" color="azure" on-touch="B7"/>
             <B3 text="7" x="280" y="300" color="azure" on-touch="B1"/>
