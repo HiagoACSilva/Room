@@ -91,7 +91,7 @@
         <agent text="t3" x="80" y="215" color="azure"/>
         <agent text="." x="300" y="345" color="azure"/>
         <agent text="." x="260" y="342" color="azure"/>
-        <agent text="." x="272" y="196" color="azure"/>
+        <agent text="." x="272" y="196" color="black"/>
         <agent text="." x="324" y="197" color="azure"/>
         <agent text="." x="373" y="200" color="azure"/>
         <agent text="." x="310" y="314" color="azure"/>
