@@ -76,7 +76,7 @@
             <L x="2000"/>
         </agent>
         <agent text="." x="140" y="360" color="azure" on-touch="LV">
-            <LV x="20" y="80" text="Livros sem nada escrito? Estranho.."
+            <LV x="20" y="80" text="Livros sem nada escrito? Que estranho.."
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
