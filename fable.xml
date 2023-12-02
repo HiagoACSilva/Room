@@ -85,8 +85,8 @@
         <agent text="." x="454" y="78" color="azure" on-touch="_GOTO_PAGE:5">
             
         </agent>
-        <agent text="." x="484" y="70" color="azure" on-touch="GE">
-            <GE x="20" y="80" text="Nota 3:..1920, infelizmente o participane veio a falecer após ficar 3 semanas preso, ha! que lástima..."
+        <agent text="." x="484" y="70" color="azure" on-touch="N3">
+            <N3 x="20" y="80" text="Nota 3:..1920, infelizmente o participante veio a falecer após ficar 3 semanas preso, ha! que lástima..."
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
@@ -100,7 +100,11 @@
             img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:2"
            />
         <agent text="." x="295" y="270" color="azure"/> 
-        <agent text="." x="365" y="265" color="azure"/>
+        <agent text="." x="365" y="265" color="purple" on-touch="GE">
+            <GE x="20" y="80" text="Nota 1: De tempos em tempos a sala escolhe um participante, tal participante deverá jogar um jogo..."
+                on-touch="L"/>
+            <L x="2000"/>
+        </agent>
         <agent text="t1" x="210" y="215" color="azure"/>
         <agent text="t2" x="140" y="215" color="azure"/>
         <agent text="t3" x="80" y="215" color="azure"/>
