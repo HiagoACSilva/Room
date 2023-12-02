@@ -71,7 +71,7 @@
             
         <agent text="." x="465" y="193" color="azure"/>
         <agent text="." x="465" y="160" color="azure"/>
-        <agent text="." x="454" y="78" color="azure" on-touch>
+        <agent text="." x="454" y="78" color="azure" on-touch="_GOTO_PAGE:5">
             
         </agent>
         <agent text="." x="484" y="70" color="azure"/>
@@ -103,6 +103,6 @@
         <agent text="Hm...Okay mas qual armário?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
     </page>
     <page background="4.png">
-        <agent text=Aqui há uma especie de desenho, mas o que significa?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:2"/>
+        <agent text="Aqui há uma especie de desenho, mas o que significa?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:2"/>
     </page>
 </fable>
