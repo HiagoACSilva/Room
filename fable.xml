@@ -63,7 +63,7 @@
         <agent img="1.png" width="44" height="205" x="130" y="217" on-touch="B5">
             <B1 text="8" x="155" y="218" color="azure" on-touch="B2"/>
             <B2 img="1.png" width="40" height="176" x="320" y="220" on-touch="B7"/>
-            <B3 text="7" x="256" y="229" on-touch="B1"/>
+            <B3 img="1.png" width="54" height="184" x="256" y="224" on-touch="B1"/>
             <B4 img="1.png" width="37" height="94" x="133" y="103" on-touch="B6"/>
             <B5 img="1.png" width="44" height="94" x="194" y="106" on-touch="B2"/>
             <B6 img="1.png" width="32" height="86" x="324" y="122" on-touch="B3"/>
