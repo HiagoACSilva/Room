@@ -103,8 +103,6 @@
         <agent text="Hm...Okay mas qual armário?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
     </page>
     <page background="4.png">
-        <agent text=Aqui há uma especie de desenho, mas o que significa?" X=>
-            
-        </agent>
+        <agent text=Aqui há uma especie de desenho, mas o que significa?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:2"/>
     </page>
 </fable>
