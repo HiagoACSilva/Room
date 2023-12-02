@@ -61,9 +61,9 @@
            />
         
         <agent text="." x="150" y="300" color="azure" on-touch="B1">
-            <B1 text="." x="215" y="300" color="azure" on/>
+            <B1 text="." x="215" y="300" color="azure" on-touch="B2"/>
+            <B2 text="." x="340" y="300" color="azure"/>
         </agent>
-        <agent text="." x="340" y="300" color="azure"/>
         <agent text="." x="280" y="300" color="azure"/>
         <agent text="." x="150" y="150" color="azure"/>
         <agent text="." x="215" y="150" color="azure"/>
