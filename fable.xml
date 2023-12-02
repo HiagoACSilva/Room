@@ -102,5 +102,7 @@
     <page background="1.png">
         <agent text="Hm...Okay mas qual armário?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
     </page>
-    <
+    <page background="4.png">
+        <agent></agent>
+    </page>
 </fable>
