@@ -73,7 +73,7 @@
         </agent>
             
         <agent text="." x="465" y="193" color="azure" on-touch="GC">
-            <GC />
+            <GC x="20" y="80" text="Um pape"/>
         </agent>
         <agent text="." x="465" y="160" color="azure"/>
         <agent text="." x="454" y="78" color="azure" on-touch="_GOTO_PAGE:5">
