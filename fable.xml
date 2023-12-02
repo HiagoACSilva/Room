@@ -44,7 +44,7 @@
         <agent text="." x="170" y="255" color="azure"/>
         <agent text="." x="100" y="300" color="azure"/>
         <agent text="." x="140" y="360" color="azure"/>
-        <agent text="." x="245" y="290" color="black"/>
+        <agent text="." x="245" y="290" color="black" ON/>
         <agent text="." x="330" y="98" color="azure"/>
         <agent text="." x="60" y="419" color="azure"/>
         <agent text="." x="160" y="400" color="azure"/>
@@ -109,6 +109,6 @@
         <agent text="2?4? Isso sequer faz sentido?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:3"/>
     </page>
     <page background="3.png">
-        <agent text="Desenho mal feito com 2 numeros...aleatorios" color="black" x="20" y="80" on-touch="_GOTO_PAGE:3"/>
+        <agent text="Desenho mal feito com 2 numeros...aleatorios?..." color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
     </page>
 </fable>
