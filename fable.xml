@@ -51,7 +51,11 @@
         <agent text="." x="245" y="290" color="black" on-touch="_GOTO_PAGE:7"/> 
         <agent text="." x="330" y="98" color="azure"/>
         <agent text="." x="60" y="419" color="azure"/>
-        <agent text="." x="160" y="400" color="azure"/>
+        <agent text="." x="160" y="400" color="azure" on-touch="N4">
+            <N4 x="20" y="80" text="Nota 4: De tempos em tempos a sala escolhe um participante, tal participante deverá jogar um jogo..."
+                on-touch="L"/>
+            <L x="2000"/>
+        </agent>
         <agent text="." x="160" y="200" color="azure"/>
         
             
