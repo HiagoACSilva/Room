@@ -101,7 +101,7 @@
            />
         <agent text="." x="295" y="270" color="azure"/> 
         <agent text="." x="365" y="265" color="azure" on-touch="AA">
-            <GE x="20" y="80" text="Apenas um equipamento antigo..."
+            <AA x="20" y="80" text="Apenas um equipamento antigo..."
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
