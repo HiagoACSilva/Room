@@ -60,8 +60,9 @@
             img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:1"
            />
         
-        <agent text="." x="150" y="300" color="azure" on-touch="B1"/>
-        <a text="." x="215" y="300" color="azure"/>
+        <agent text="." x="150" y="300" color="azure" on-touch="B1">
+            <B1 text="." x="215" y="300" color="azure" on/>
+        </agent>
         <agent text="." x="340" y="300" color="azure"/>
         <agent text="." x="280" y="300" color="azure"/>
         <agent text="." x="150" y="150" color="azure"/>
