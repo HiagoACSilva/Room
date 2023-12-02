@@ -66,9 +66,9 @@
         </agent>
         <agent text="4" x="280" y="300" color="azure"/>
         <agent text="5" x="150" y="150" color="azure"/>
-        <agent text="6" x="215" y="150" color="azure"/>
-        <agent text="7" x="340" y="160" color="azure"/>
-        <agent text="8" x="280" y="153" color="azure"/>
+        <agent text="2" x="215" y="150" color="azure"/>
+        <agent text="6" x="340" y="160" color="azure"/>
+        <agent text="4" x="280" y="153" color="azure"/>
             
         <agent text="." x="465" y="193" color="azure"/>
         <agent text="." x="465" y="160" color="azure"/>
