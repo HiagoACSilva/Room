@@ -96,9 +96,7 @@
         <agent text="." x="373" y="200" color="azure"/>
         <agent text="." x="310" y="314" color="azure"/>
         <agent text="t" x="360" y="335" color="azure"/>
-        <agent text="." x="274" y="223" color="azure" >
-            
-        </agent>
+        <agent text="." x="274" y="223" color="azure" on-touch=/>
         <agent text="." x="322" y="222" color="azure"/>
     </page> 
     <page background="1.png">
