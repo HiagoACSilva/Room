@@ -108,4 +108,7 @@
     <page background="2.png">
         <agent text="2?4? Isso sequer faz sentido?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:3"/>
     </page>
+    <page background="3.png">
+        <agent text="2?4? Isso sequer faz sentido?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:3"/>
+    </page>
 </fable>
