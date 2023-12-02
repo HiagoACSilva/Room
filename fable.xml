@@ -121,7 +121,11 @@
         </agent>
         <agent text="." x="324" y="197" color="azure"/>
         <agent text="." x="373" y="200" color="azure"/>
-        <agent text="." x="310" y="314" color="azure"/>
+        <agent text="." x="310" y="314" color="azure" on-touch="N5">
+            <N5 x="20" y="80" text="boa sorte! E uma dica, pra sair daqui, entre na escuridão..Abraços!"
+                on-touch="L"/>
+            <L x="2000"/>
+        </agent>
         <agent text="t" x="360" y="335" color="azure"/>
         <agent text="." x="274" y="223" color="azure" on-touch="_GOTO_PAGE:6"/>
         <agent text="." x="322" y="222" color="azure"/>
