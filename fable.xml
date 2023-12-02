@@ -36,9 +36,13 @@
         </agent>
 
         <agent text="." x="118" y="168" color="azure"/>
-        <agent text="." x="182" y="173" color="azure"/>
-        <agent text="." x="182" y="153" color="brown" on-touch="GE">
-            <GE x="20" y="80" text="Abaixo da tv, um recadinho pra você!"
+        <agent text="." x="182" y="173" color="azure" on-touch="GDC">
+            <GDC x="20" y="80" text="Gaveta vazia"
+                on-touch="L"/>
+            <L x="2000"/>
+        </agent>
+        <agent text="." x="182" y="153" color="brown" on-touch="GDB">
+            <GDB x="20" y="80" text="Abaixo da tv, um recadinho pra você!"
                 on-touch="L"/>
             <L x="2000"/>
         </agent> 
