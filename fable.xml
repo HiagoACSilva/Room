@@ -60,14 +60,14 @@
             img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:1"
            />
         
-        <agent text="1" x="150" y="300" color="azure" on-touch="B1">
+        <agent text="1" x="150" y="300" color="azure" on-touch="B5">
             <B1 text="8" x="215" y="300" color="azure" on-touch="B2"/>
-            <B2 text="3" x="340" y="300" color="azure"/>
-            <B3 text="7" x="280" y="300" color="azure"/>
-            <B4 text="5" x="150" y="150" color="azure"/>
-            <B5 text="2" x="215" y="150" color="azure"/>
-            <B6 text="6" x="340" y="160" color="azure"/>
-            <B7 text="4" x="280" y="153" color="azure"/>
+            <B2 text="3" x="340" y="300" color="azure" on-touch="B7"/>
+            <B3 text="7" x="280" y="300" color="azure" on-touch="B2"/>
+            <B4 text="5" x="150" y="150" color="azure" on-touch="B2"/>
+            <B5 text="2" x="215" y="150" color="azure" on-touch="B2"/>
+            <B6 text="6" x="340" y="160" color="azure" on-touch="B2"/>
+            <B7 text="4" x="280" y="153" color="azure" on-touch="B2"/>
         </agent>
             
         <agent text="." x="465" y="193" color="azure"/>
