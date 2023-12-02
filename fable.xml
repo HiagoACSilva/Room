@@ -109,6 +109,6 @@
         <agent text="2?4? Isso sequer faz sentido?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:3"/>
     </page>
     <page background="3.png">
-        <agent text="2?4? Isso sequer faz sentido?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:3"/>
+        <agent text="Desenho mal feito com 2 numeros...aleatorios" color="black" x="20" y="80" on-touch="_GOTO_PAGE:3"/>
     </page>
 </fable>
