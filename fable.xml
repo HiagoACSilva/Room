@@ -35,9 +35,13 @@
             <C1 x="1000"/>
         </agent>
 
-        <agent text="." x="118" y="168" color="azure"/>
+        <agent text="." x="118" y="168" color="azure" on-touch="GE">
+            <GE x="20" y="80" text=""
+                on-touch="L"/>
+            <L x="2000"/>
+        </agent>
         <agent text="." x="182" y="173" color="azure" on-touch="GDC">
-            <GDC x="20" y="80" text="Gaveta vazia"
+            <GDC x="20" y="80" text="Gaveta vazia..."
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
