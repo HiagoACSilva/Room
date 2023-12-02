@@ -106,6 +106,6 @@
         <agent text="Aqui há uma especie de desenho, mas o que significa?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:2"/>
     </page>
     <page background="2.png">
-        <agent
+        <agent text="2?4? Isso sequer faz sentido?" color="black" x="20" y="80" on-touch="_GOTO_PAGE:3"/>
     </page>
 </fable>
