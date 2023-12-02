@@ -52,7 +52,7 @@
         </agent> 
         <agent text="." x="335" y="273" color="azure"/>
         <agent text="." x="348" y="273" color="azure"/>
-        <agent text="." x="180" y="295" color="green" on-touch="GE">
+        <agent text="." x="180" y="295" color="azure" on-touch="GE">
             <GE x="20" y="80" text="Nota 2:... chamado batidas. Batidas consiste em voce bater no local certo. A primeira edição foi feita em..."
                 on-touch="L"/>
             <L x="2000"/>
