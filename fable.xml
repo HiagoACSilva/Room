@@ -81,7 +81,11 @@
             <L x="2000"/>
         </agent>
         <agent text="." x="245" y="290" color="black" on-touch="_GOTO_PAGE:7"/> 
-        <agent text="." x="330" y="98" color="black"/>
+        <agent text="." x="330" y="98" color="azure" on-touch="GB">
+            <GB x="20" y="80" text="..."
+                on-touch="L"/>
+            <L x="2000"/>
+        </agent>>
         <agent text="." x="60" y="419" color="azure"/>
         <agent text="." x="160" y="400" color="azure" on-touch="N4">
             <N4 x="20" y="80" text="Nota 4:...enfim, se voce está lendo isso quer dizer que foi o felizardo da vez, então..."
