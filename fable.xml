@@ -86,7 +86,11 @@
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
-        <agent text="." x="60" y="419" color="azure"/>
+        <agent text="." x="60" y="419" color="azure" on-touch="FC">
+            <FC x="20" y="80" text="Nota 1: De tempos em tempos a sala escolhe um participante, tal participante deverá jogar um jogo..."
+                on-touch="L"/>
+            <L x="2000"/>
+        </agent>
         <agent text="." x="160" y="400" color="azure" on-touch="N4">
             <N4 x="20" y="80" text="Nota 4:...enfim, se voce está lendo isso quer dizer que foi o felizardo da vez, então..."
                 on-touch="L"/>
