@@ -44,8 +44,8 @@
         <agent text="." x="170" y="255" color="azure"/>
         <agent text="." x="100" y="300" color="azure"/>
         <agent text="." x="140" y="360" color="azure"/>
-        <agent text="." x="2450" y="290" color="black" on-trigger="GEC">
-            <GEC x="245" on-touch="_GOTO_PAGE:7"/>
+        <agent text="." x="245" y="290" color="black" on-trigger="GEC">
+            <GEC on-touch="_GOTO_PAGE:7"/>
         </agent> 
         <agent text="." x="330" y="98" color="azure"/>
         <agent text="." x="60" y="419" color="azure"/>
