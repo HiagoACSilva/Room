@@ -166,7 +166,7 @@
         <agent text="." x="324" y="197" color="azure"/>
         <agent text="." x="373" y="200" color="azure"/>
         <agent text="." x="310" y="314" color="azure" on-touch="N5">
-            <N5 x="20" y="80" text="boa sorte! E uma dica, pra sair daqui, entre na escuridão..Abraços!"
+            <N5 x="20" y="80" text="Nota 5:...boa sorte! E uma dica, pra sair daqui, entre na escuridão..Abraços!"
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
