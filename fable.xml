@@ -192,7 +192,7 @@
             <LT x="2000"/>
         </agent>
         <agent text="." x="300" y="345" color="azure">
-            <GE x="20" y="80" text="Uma carta aqui: SE ALGUEM ESTA LENDO ISSO, MEUS PESAMES, ASSIM COMO EU, JA ESTA CONDENADO..."
+            <GE x="20" y="80" text="Uma carta aqui: SE ALGUEM ESTA LENDO ISSO, MEUS PESAMES, ASSIM COMO EU, JA ESTA CONDENADO, ESTOU N..."
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
