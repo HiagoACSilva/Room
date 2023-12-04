@@ -151,7 +151,7 @@
         <agent 
             img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:2"
            />
-        <agent text="." x="295" y="270" color="azure"/> 
+        <agent text="." x="295" y="270" color="bl"/> 
         <agent text="." x="365" y="265" color="azure" on-touch="AA">
             <AA x="20" y="80" text="Apenas um equipamento antigo..."
                 on-touch="L"/>
