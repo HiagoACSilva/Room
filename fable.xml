@@ -81,14 +81,7 @@
             <L x="2000"/>
         </agent>
         <agent
-            img="Transicao.png" x="241" y="292" width="10" height="10" on-touch="Lz">
-        </agent>
-        <agent 
-            text="." x="-20" y="80" width="0" color="azure"
-            height="0" on-trigger="Lz">
-            
-            <Lz text="No armário tem alguns ternos elegantes e gravatas, mas nada útil." x="20" on-touch="LT"/>
-            <LT x="2000"/>
+            img="Transicao.png" x="241" y="292" width="10" height="10" on-touch="_GOTO_PAGE:7">
         </agent>
         <agent text="." x="330" y="98" color="azure" on-touch="GB">
             <GB x="20" y="80" text="Tem uma nota aqui: Procure pistas, quem sabe você não acha algo?"
