@@ -9,7 +9,6 @@
         <agent
             img="Transicao.png" x="30" y="130" width="40" height="30" on-touch="GEB">
         </agent>
-        
         <agent 
             text="." x="-20" y="80" width="0" color="azure"
             height="0" on-trigger="GEB">
