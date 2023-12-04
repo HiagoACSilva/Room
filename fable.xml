@@ -221,7 +221,16 @@
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
-        <agent text="t" x="360" y="335" color="azure"/>
+        <agent
+            img="Transicao.png" x="30" y="72" width="68" height="314" on-touch="PA3">
+        </agent>
+        <agent 
+            text="." x="-20" y="80" width="0" color="azure"
+            height="0" on-trigger="PA3">
+            
+            <PA3 text="No armário tem alguns ternos elegantes e gravatas, mas nada útil." x="20" on-touch="LT"/>
+            <LT x="2000"/>
+        </agent>
         <agent text="." x="274" y="223" color="azure" on-touch="_GOTO_PAGE:6"/>
         <agent text="." x="322" y="222" color="azure" on-touch="LI">
             <LI x="20" y="80" text="Uma fita vhs toda destruida..."
