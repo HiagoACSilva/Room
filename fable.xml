@@ -212,7 +212,7 @@
             <L x="2000"/>
         </agent>
         <agent text="." x="373" y="200" color="azure" on-touch="GD">
-            <GE x="20" y="80" text="u"
+            <GD x="20" y="80" text="Um esqueleto de rato suponho...está aqui a bastante tempo"
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
