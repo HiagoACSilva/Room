@@ -177,7 +177,16 @@
             <PA2 text="Calças sociais, apenas." x="20" on-touch="LT"/>
             <LT x="2000"/>
         </agent>
-        <agent text="t3" x="80" y="215" color="azure"/>
+        <agent text="t3" x="80" y="215" color="azure"<agent
+            img="1.png" x="178" y="72" width="68" height="314" on-touch="PA1">
+        </agent>
+        <agent 
+            text="." x="-20" y="80" width="0" color="azure"
+            height="0" on-trigger="PA1">
+            
+            <PA1 text="No armário tem alguns ternos elegantes e gravatas, mas nada útil." x="20" on-touch="LT"/>
+            <LT x="2000"/>
+        </agent>
         <agent text="." x="300" y="345" color="azure"/>
         <agent text="." x="260" y="342" color="azure"/>
         <agent text="." x="272" y="196" color="azure" on-touch="GE">
