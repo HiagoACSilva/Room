@@ -192,8 +192,8 @@
             <LT x="2000"/>
         </agent>
         <agent text="." x="300" y="345" color="azure"/>
-        <agent text="." x="260" y="342" color="black">
-            <GE x="20" y="80" text="Jornais velhos da epoca de 19..."
+        <agent text="." x="260" y="342" color="azure">
+            <GE x="20" y="80" text="Jornais velhos da época de 1970..."
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
