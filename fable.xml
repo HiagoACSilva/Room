@@ -207,11 +207,15 @@
             <L x="2000"/>
         </agent>
         <agent text="." x="324" y="197" color="azure" on-touch="GM">
-            <GM x="20" y="80" text="Aqui só existe um papel "
+            <GM x="20" y="80" text="Aqui só existe um papel escrito 18,18,18,18,18..."
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
-        <agent text="." x="373" y="200" color="azure"/>
+        <agent text="." x="373" y="200" color="azure" on-touch="GD">
+            <GE x="20" y="80" text="u"
+                on-touch="L"/>
+            <L x="2000"/>
+        </agent>
         <agent text="." x="310" y="314" color="azure" on-touch="N5">
             <N5 x="20" y="80" text="Nota 5:...boa sorte! E uma dica, pra sair daqui, entre na escuridão..Abraços!"
                 on-touch="L"/>
