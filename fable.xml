@@ -222,13 +222,13 @@
             <L x="2000"/>
         </agent>
         <agent
-            img="1.png" x="344" y="337" width="38" height="34" on-touch="PA3">
+            img="Transicao.png" x="344" y="337" width="38" height="24" on-touch="PA3">
         </agent>
         <agent 
             text="." x="-20" y="80" width="0" color="azure"
             height="0" on-trigger="PA3">
             
-            <PA3 text="No armário tem alguns ternos elegantes e gravatas, mas nada útil." x="20" on-touch="LT"/>
+            <PA3 text="Meu Deus! Essa sombra não tem fim? " x="20" on-touch="LT"/>
             <LT x="2000"/>
         </agent>
         <agent text="." x="274" y="223" color="azure" on-touch="_GOTO_PAGE:6"/>
