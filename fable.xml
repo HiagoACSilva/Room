@@ -253,9 +253,11 @@
         <agent text="Desenho mal feito com 2 numeros...aleatorios?..." color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
     </page>
     <page background="Hole.jpg">
-        <agent text="Quando voce entra na sombra, cai em queda livre e olha um buraco vermelho, a pressão da queda se torna cada vez maior, até que você perde a consciência..." color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
+        <agent text="Quando voce entra na sombra, cai em queda livre e olha um buraco vermelho, a pressão da queda se torna cada vez maior, até que você perde a consciência..." color="black" x="20" y="80" on-touch="_GOTO_PAGE:9"/>
     </page>
     <page background="Bed.jpg">
-        <agent text="Por fim você acorda debaixo da sua cama, não sabendo o que houve e perdido, completamente confuso e se pergunta se tudo foi um pesadelo ou algo real...fim" color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
+        <agent text="Por fim você acorda debaixo da sua cama, não sabendo o que houve e perdido, completamente confuso e se pergunta se tudo foi um pesadelo ou algo real...fim" color="black" x="20" y="80" on-touch="JN">
+            
+        </agent>
     </page>
 </fable>
