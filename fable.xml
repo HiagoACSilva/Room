@@ -45,7 +45,7 @@
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
-        <agent text="." x="182" y="153" color="brown" on-touch="GDB">
+        <agent text="." x="182" y="153" color="azure" on-touch="GDB">
             <GDB x="20" y="80" text="Abaixo da tv, um recadinho pra você!"
                 on-touch="L"/>
             <L x="2000"/>
