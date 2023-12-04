@@ -253,9 +253,9 @@
         <agent text="Desenho mal feito com 2 numeros...aleatorios?..." color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
     </page>
     <page background="Hole.png">
-        <agent text="Desenho mal feito com 2 numeros...aleatorios?..." color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
+        <agent text="Quando voce entra na sombra, cai em queda livre e olha um buraco vermelho, a pressão da queda se torna cada vez maior," color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
     </page>
-    <page background="3.png">
+    <page background="Bed.png">
         <agent text="Desenho mal feito com 2 numeros...aleatorios?..." color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
     </page>
 </fable>
