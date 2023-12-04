@@ -129,7 +129,11 @@
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
-        <agent text="." x="465" y="160" color="azure"/>
+        <agent text="." x="465" y="160" color='' on-touch="N3">
+            <N3 x="20" y="80" text="Nota 3:..1920, infelizmente o participante veio a falecer após ficar 3 semanas preso, ha! que lástima..."
+                on-touch="L"/>
+            <L x="2000"/>
+        </agent>
         <agent text="." x="454" y="78" color="azure" on-touch="_GOTO_PAGE:5">
             
         </agent>
