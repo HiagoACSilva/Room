@@ -81,7 +81,7 @@
             <L x="2000"/>
         </agent>
         <agent
-            img="1.png" x="178" y="72" width="68" height="5" on-touch="PA3">
+            img="1.png" x="241" y="292" width="10" height="10" on-touch="PA3">
         </agent>
         <agent 
             text="." x="-20" y="80" width="0" color="azure"
