@@ -177,8 +177,8 @@
             <PA2 text="Calças sociais, apenas." x="20" on-touch="LT"/>
             <LT x="2000"/>
         </agent>
-        <agent text="t3" x="80" y="215" color="azure"<agent
-            img="1.png" x="41" y="72" width="68" height="314" on-touch="PA1">
+        <agent
+            img="Transicao.png" x="41" y="62" width="68" height="322" on-touch="PA1">
         </agent>
         <agent 
             text="." x="-20" y="80" width="0" color="azure"
