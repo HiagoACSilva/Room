@@ -252,4 +252,10 @@
     <page background="3.png">
         <agent text="Desenho mal feito com 2 numeros...aleatorios?..." color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
     </page>
+    <page background="Hole.png">
+        <agent text="Desenho mal feito com 2 numeros...aleatorios?..." color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
+    </page>
+    <page background="3.png">
+        <agent text="Desenho mal feito com 2 numeros...aleatorios?..." color="black" x="20" y="80" on-touch="_GOTO_PAGE:1"/>
+    </page>
 </fable>
