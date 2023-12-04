@@ -158,13 +158,13 @@
             <L x="2000"/>
         </agent>
         <agent
-            img="1.png" x="178" y="72" width="68" height="314" on-touch="GEB">
+            img="1.png" x="178" y="72" width="68" height="314" on-touch="PA3">
         </agent>
         <agent 
             text="." x="-20" y="80" width="0" color="azure"
-            height="0" on-trigger="GEB">
+            height="0" on-trigger="PA3">
             
-            <GEB text="No armário tem alguns ternos elegantes e gravatas, mas nada útil." x="20" on-touch="LT"/>
+            <PA3 text="No armário tem alguns ternos elegantes e gravatas, mas nada útil." x="20" on-touch="LT"/>
             <LT x="2000"/>
         </agent>
         <agent text="t2" x="140" y="215" color="azure"/>
