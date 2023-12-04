@@ -157,7 +157,16 @@
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
-        <agent text="t1" x="210" y="215" color="azure"/> 
+        <agent
+            img="Transicao.png" x="30" y="130" width="40" height="30" on-touch="GEB">
+        </agent>
+        <agent 
+            text="." x="-20" y="80" width="0" color="azure"
+            height="0" on-trigger="GEB">
+            
+            <GEB text="Não há nada na gaveta..." x="20" on-touch="LT"/>
+            <LT x="2000"/>
+            
         <agent text="t2" x="140" y="215" color="azure"/>
         <agent text="t3" x="80" y="215" color="azure"/>
         <agent text="." x="300" y="345" color="azure"/>
