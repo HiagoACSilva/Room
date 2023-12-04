@@ -168,13 +168,13 @@
             <LT x="2000"/>
         </agent>
         <agent
-            img="1.png" x="118" y="72" width="68" height="314" on-touch="PA3">
+            img="Transicao.png" x="108" y="72" width="68" height="314" on-touch="PA2">
         </agent>
         <agent 
             text="." x="-20" y="80" width="0" color="azure"
-            height="0" on-trigger="PA3">
+            height="0" on-trigger="PA2">
             
-            <PA3 text="Calças sociais, apenas." x="20" on-touch="LT"/>
+            <PA2 text="Calças sociais, apenas." x="20" on-touch="LT"/>
             <LT x="2000"/>
         </agent>
         <agent text="t3" x="80" y="215" color="azure"/>
