@@ -224,7 +224,7 @@
         <agent text="t" x="360" y="335" color="azure"/>
         <agent text="." x="274" y="223" color="azure" on-touch="_GOTO_PAGE:6"/>
         <agent text="." x="322" y="222" color="azure" on-touch="LI">
-            <LI x="20" y="80" text="Uma fita"
+            <LI x="20" y="80" text="Uma fita vhs toda destruida..."
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
