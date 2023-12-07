@@ -36,7 +36,7 @@
         </agent>
 
         <agent text="." x="118" y="168" color="azure" on-touch="GM">
-            <GM x="20" y="80" text="Apenas um tinteiro, nada incomum..."
+            <GM x="20" y="80" text="Dica de jogo: Clique nas ex"
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
