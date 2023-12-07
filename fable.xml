@@ -99,7 +99,7 @@
             <L x="2000"/>
         </agent>
         <agent text="." x="160" y="200" color="azure" on-touch="M">
-            <M x="20" y="80" text="Dica de jogo: Há alguns lugares que não possuem pontos"
+            <M x="20" y="80" text="Dica de jogo: Há alguns lugares que não possuem pontos mas há interações. Experimente clicar em algo suspeito ou chamativo!"
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
