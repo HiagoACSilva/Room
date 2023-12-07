@@ -1,14 +1,10 @@
-<!-->
-
-<>
-
-
 <fable>
 	<page background="Wall1.png"> 
         <agent
             img="Transicao.png" x="0" y="0" width="20" height="500" on-touch="_GOTO_PAGE:2"
            />
         <agent  
+<!--  -->
             img="Transicao.png" x="480" y="0" width="20" height="500" on-touch="_GOTO_PAGE:3"
            />
         <agent
