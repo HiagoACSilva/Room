@@ -84,7 +84,7 @@
             img="Transicao.png" x="241" y="292" width="10" height="10" on-touch="_GOTO_PAGE:7">
         </agent>
         <agent text="." x="330" y="98" color="azure" on-touch="GB">
-            <GB x="20" y="80" text="Tem uma nota aqui: Procure pistas, quem sabe você não acha algo?"
+            <GB x="20" y="80" text="Dica de jogo: Procure pistas, quem sabe você não acha algo?"
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
@@ -99,7 +99,7 @@
             <L x="2000"/>
         </agent>
         <agent text="." x="160" y="200" color="azure" on-touch="M">
-            <M x="20" y="80" text="A mesa está bastante empoeirada..."
+            <M x="20" y="80" text="Dica de jogo: Há alguns lugares que não possuem pontos"
                 on-touch="L"/>
             <L x="2000"/>
         </agent>
